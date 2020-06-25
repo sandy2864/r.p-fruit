@@ -1,0 +1,28 @@
+*{padding:0;margin:0;box-sizing: border-box;font-family: 'Anton', sans-serif;
+font-family: 'Piedra', cursive;;}
+.carousel-inner img{
+	height:100vh;
+	width:100%;
+	
+}
+.aboutimg{
+	width: auto;
+	height: 450px !important;
+	opacity: 1.0;
+}
+html, body {
+
+   max-width: 100%;
+   overflow-x: hidden;
+   background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+.foot{
+	background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+.card-img-top{
+  opacity: 0.5;
+}
+.card-img-top:hover{
+  opacity: 1;
+}
